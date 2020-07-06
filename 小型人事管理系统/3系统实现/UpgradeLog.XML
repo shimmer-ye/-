@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="人事档案管理信息系统">
+</Property><Property Name="解决方案文件" Value="F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\人事档案管理信息系统.sln">
+</Property><Property Name="用户选项文件" Value="F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\人事档案管理信息系统.suo">
+</Property><Property Name="Date" Value="2013年10月7日">
+</Property><Property Name="Time" Value="11:15">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="人事档案管理信息系统.sln" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\人事档案管理信息系统.sln">
+</Event><Event ErrorLevel="0" Project="" Source="人事档案管理信息系统.suo" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\人事档案管理信息系统.suo">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1.csproj" Description="项目文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\WindowsApplication1.csproj">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Class1.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Class1.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form1.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form1.Designer.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form2.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form2.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form2.Designer.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form3.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form3.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form3.Designer.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form4.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form4.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form4.Designer.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form4.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form5.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form5.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form5.Designer.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form5.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form6.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form6.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form6.Designer.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form6.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form7.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form7.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form7.Designer.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form7.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form8.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form8.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form8.Designer.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form8.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Program.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Properties\Resources.Designer.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Properties\Settings.Designer.cs" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Properties\Settings.settings" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Resources\2.JPG" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Resources\2.JPG">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Resources\4fb32095424b87057bf48097.jpg" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Resources\4fb32095424b87057bf48097.jpg">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Resources\2d62ac2305cd2449ad34deb7.jpg" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Resources\2d62ac2305cd2449ad34deb7.jpg">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Resources\77.bmp" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Resources\77.bmp">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Resources\11.bmp" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Resources\11.bmp">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form1.resx" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form2.resx" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form3.resx" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form3.resx">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form4.resx" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form4.resx">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form5.resx" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form5.resx">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form6.resx" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form6.resx">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form7.resx" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form7.resx">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form8.resx" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Form8.resx">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Properties\Resources.resx" Description="文件已成功备份为 F:\我的文稿\XML编程与应用教程升级\源代码\附录\人事管理系统\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="WindowsApplication1" Source="WindowsApplication1.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="WindowsApplication1" Source="WindowsApplication1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="人事档案管理信息系统.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="人事档案管理信息系统.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
